@@ -1,0 +1,11 @@
+---
+product_mongo:
+  seeds:
+  - host: "localhost"
+    port: 27017
+  database: "products"
+category_mongo:
+  seeds:
+  - host: "localhost"
+    port: 27017
+  database: "categories"
